@@ -1,6 +1,8 @@
 # pyqt-googlemap-example
 PyQt window which shows the Google map
 
+Loading screen supported.
+
 ## How To Use
 1. git clone ~
 2. python -m pip install PyQtWebEngine
