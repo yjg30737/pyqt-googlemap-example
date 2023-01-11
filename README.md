@@ -5,8 +5,8 @@ Loading screen supported.
 
 ## How To Use
 1. git clone ~
-2. python -m pip install PyQtWebEngine
-3. python -m pip install PyQt5-stubs - if this is not installed, QtWebEngineWidgets might not work
+2. python -m pip install PyQt5-stubs - if this is not installed, QtWebEngineWidgets might not work
+3. python -m pip install PyQtWebEngine
 4. python main.py
 
 ## Preview
