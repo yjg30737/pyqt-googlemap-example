@@ -6,7 +6,9 @@ PyQt window which shows the Google map
 2. python main.py
 
 ## Prerequisites
-python -m pip install QtWebEngineWidgets 
+python -m pip install PyQtWebEngine
+
+python -m pip install PyQt5-stubs - if this is not installed, QtWebEngineWidgets does not work  
 
 ## Preview
 
