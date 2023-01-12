@@ -8,7 +8,7 @@ This is English version, by the way! If you want to see the Google map in your o
 ## How To Use
 1. git clone ~
 2. python -m pip install PyQt5-stubs - if this is not installed, QtWebEngineWidgets might not work
-3. python -m pip install PyQtWebEngine - if Python IDE or something like that says that they don't find QtWebEngineWidgets or PyQt5.sip or whatever, put the `--upgrade` option behind of this command
+3. python -m pip install PyQtWebEngine - if Python IDE or something like that says that they can't find QtWebEngineWidgets or PyQt5.sip, put the `--upgrade` option behind of this command
 4. python main.py
 
 ## Preview
