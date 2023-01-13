@@ -16,4 +16,5 @@ This is English version, by the way! If you want to see the Google map in your o
 ![image](https://user-images.githubusercontent.com/55078043/211472004-4385cc61-db7d-4bab-bb62-0b9e4919b530.png)
 
 ## See Also
-<a href="https://github.com/yjg30737/pyqt-folium-example">PyQt folium map</a>
+* <a href="https://github.com/yjg30737/pyqt-folium-example">PyQt Folium Example</a>
+* <a href="https://github.com/yjg30737/pyqt-plotly-example.git">PyQt Plotly Example</a>
